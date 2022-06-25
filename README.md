@@ -1,2 +1,2 @@
-# django-crud
+# Django-crud
 Django CRUD | Zuri Training
